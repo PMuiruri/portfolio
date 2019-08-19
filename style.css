@@ -74,6 +74,9 @@ header a:hover{
 	border-bottom: solid 5px orange;
 	font-weight: bold;
 }
+header img{
+	margin: 0;
+}
 
 /* showcase */
 #about{
