@@ -72,6 +72,10 @@ header a:hover{
 	border-bottom: solid 5px orange;
 	font-weight: bold;
 }
+.text-center{
+	margin: auto;
+  text-align: center;
+}
 
 /* showcase */
 #about{
@@ -90,6 +94,10 @@ header a:hover{
 #about p{
 	width: 100%;
 	text-align: justify;
+}
+.text-center{
+	margin: auto;
+  text-align: center !important;
 }
 /*Education  */
 .grid-3{
